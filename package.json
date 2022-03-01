@@ -11,7 +11,7 @@
     "connect-flash": "0.1.x",
     "express": "3.x.x",
     "extend": "1.2.x",
-    "handlebars-layouts": "0.1.x",
+    "handlebars-layouts": "0.3.3",
     "hbs": "2.4.x",
     "logule": "2.x.x",
     "orm": "~2.1.3",
