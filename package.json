@@ -9,7 +9,7 @@
   "dependencies": {
     "cah-creator": "^1.0.3",
     "connect-flash": "0.1.x",
-    "express": "3.x.x",
+    "express": "4.0.0",
     "extend": "1.2.x",
     "handlebars-layouts": "0.1.x",
     "hbs": "2.4.x",
