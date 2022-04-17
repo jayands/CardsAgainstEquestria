@@ -12,7 +12,7 @@
     "express": "4.16.0",
     "extend": "2.0.2",
     "handlebars-layouts": "0.1.x",
-    "hbs": "4.1.2",
+    "hbs": "4.2.0",
     "logule": "2.x.x",
     "orm": "~7.0.0",
     "pg": "~2.11.0",
