@@ -14,7 +14,7 @@
     "handlebars-layouts": "0.1.x",
     "hbs": "4.1.2",
     "logule": "2.x.x",
-    "orm": "~7.0.0",
+    "orm": "~7.1.0",
     "pg": "~2.11.0",
     "sql": "~0.78.0",
     "underscore": "*",
